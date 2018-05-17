@@ -1,2 +1,2 @@
 # Docker-SongDownloaderBaseImage
-Base container for the Base Image Downloader
+Base container for the Song Downloader project
